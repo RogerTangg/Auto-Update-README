@@ -13,7 +13,7 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/RogerTangg/DevOps-Auto-README/issues/6) in [RogerTangg/DevOps-Auto-README](https://github.com/RogerTangg/DevOps-Auto-README)
+1. 💪 Opened PR [#5](https://github.com/RogerTangg/DevOps-Auto-README/pull/5) in [RogerTangg/DevOps-Auto-README](https://github.com/RogerTangg/DevOps-Auto-README)
 <!--END_SECTION:activity-->
 
 ---
