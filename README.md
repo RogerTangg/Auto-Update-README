@@ -13,7 +13,7 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-這裡會由 GitHub Actions 自動更新，顯示最近的 Commit / PR / Issue 活動。
+1. ❗ Opened issue [#6](https://github.com/RogerTangg/DevOps-Auto-README/issues/6) in [RogerTangg/DevOps-Auto-README](https://github.com/RogerTangg/DevOps-Auto-README)
 <!--END_SECTION:activity-->
 
 ---
