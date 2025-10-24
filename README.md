@@ -13,7 +13,7 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/RogerTangg/DevOps-Auto-README/issues/6) in [RogerTangg/DevOps-Auto-README](https://github.com/RogerTangg/DevOps-Auto-README)
+1. 💪 Opened PR [#1](undefined) in [AweiLu/Collaboration-Merge-Styles](https://github.com/AweiLu/Collaboration-Merge-Styles)
 <!--END_SECTION:activity-->
 
 ---
