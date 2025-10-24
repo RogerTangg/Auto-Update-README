@@ -13,7 +13,7 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [AweiLu/Collaboration-Merge-Styles](https://github.com/AweiLu/Collaboration-Merge-Styles)
+1. 💪 Opened PR [#10](undefined) in [AweiLu/Collaboration-Merge-Styles](https://github.com/AweiLu/Collaboration-Merge-Styles)
 <!--END_SECTION:activity-->
 
 ---
